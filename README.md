@@ -1,6 +1,6 @@
 # Portfólio de Augusto Henrique do Amaral
 
-Site estático em `dist/`, com páginas Projetos e Perfil, em português, inglês e espanhol. O idioma escolhido é salvo no navegador. O site não possui login ou edição pública.
+Site estático em `dist/`, com Projetos como página inicial e Perfil acessível pelo menu, em português, inglês e espanhol. O idioma escolhido é salvo no navegador. O site não possui login ou edição pública.
 
 **Site para compartilhar:** https://augusto44444.github.io/portfolio-augusto/
 
