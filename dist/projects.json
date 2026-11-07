@@ -1,0 +1,55 @@
+[
+  {
+    "id": "3deasy",
+    "title": "3DEasy",
+    "featured": true,
+    "description": {
+      "pt": "Plataforma para calcular custos de impressão 3D, definir margens, enviar orçamentos e acompanhar pedidos. Os custos ficam separados da proposta enviada ao cliente.",
+      "en": "A platform for calculating 3D printing costs, setting margins, sending quotes, and tracking orders. Internal costs stay out of the proposal sent to customers.",
+      "es": "Plataforma para calcular los costos de impresión 3D, definir márgenes, enviar presupuestos y seguir pedidos. Los costos internos no aparecen en la propuesta enviada al cliente."
+    },
+    "contribution": {"pt": "Detalhes da contribuição individual em preparação.", "en": "Individual contribution details in preparation.", "es": "Detalles de la contribución individual en preparación."},
+    "stack": [],
+    "image": "./assets/3deasy-orcamento.webp",
+    "imageAlt": {
+      "pt": "Tela de orçamento do 3DEasy com peças, custos, margem e preço de venda.",
+      "en": "3DEasy quote screen showing items, costs, margin, and selling price.",
+      "es": "Pantalla de presupuesto de 3DEasy con piezas, costos, margen y precio de venta."
+    },
+    "gallery": ["./assets/3deasy-impressora.webp", "./assets/3deasy-aprovacao.webp"],
+    "video": "",
+    "appUrl": "https://3deasy.vercel.app/",
+    "sourceUrl": "",
+    "access": {"pt": "Explore o 3DEasy com uma das contas de demonstração abaixo.", "en": "Explore 3DEasy using one of the demo accounts below.", "es": "Explora 3DEasy con una de las cuentas de demostración a continuación."},
+    "demoAccounts": [
+      {"language": "pt", "email": "testbr@mail.com", "password": "123123"},
+      {"language": "en", "email": "testen@mail.com", "password": "123123"}
+    ]
+  },
+  {
+    "id": "chronos-pomodoro",
+    "title": "Chronos Pomodoro",
+    "featured": false,
+    "description": {
+      "pt": "Temporizador Pomodoro para organizar tarefas em ciclos de foco. A demonstração inclui histórico e configurações.",
+      "en": "A Pomodoro timer for organizing tasks into focus cycles. The demo includes history and settings.",
+      "es": "Temporizador Pomodoro para organizar tareas en ciclos de concentración. La demostración incluye historial y configuración."
+    },
+    "contribution": {
+      "pt": "Aplicativo publicado; detalhes da contribuição em preparação.",
+      "en": "Published application; contribution details in preparation.",
+      "es": "Aplicación publicada; detalles de la contribución en preparación."
+    },
+    "stack": ["React", "TypeScript", "Vite"],
+    "image": "",
+    "visualType": "timer",
+    "video": "",
+    "appUrl": "https://chronos-pomodoro-virid.vercel.app/",
+    "sourceUrl": "https://github.com/augusto44444/chronos-pomodoro",
+    "access": {
+      "pt": "Demonstração pública: abra o aplicativo pelo botão abaixo.",
+      "en": "Public demo: open the app using the button below.",
+      "es": "Demostración pública: abre la aplicación con el botón de abajo."
+    }
+  }
+]
