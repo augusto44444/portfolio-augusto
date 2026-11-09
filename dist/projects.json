@@ -51,5 +51,78 @@
       "en": "Public demo: open the app using the button below.",
       "es": "Demostración pública: abre la aplicación con el botón de abajo."
     }
+  },
+  {
+    "id": "vehicle-catalog-case",
+    "title": "Catálogo de veículos",
+    "featured": false,
+    "label": {
+      "pt": "Case prático de frontend",
+      "en": "Frontend case study",
+      "es": "Caso práctico de frontend"
+    },
+    "description": {
+      "pt": "Case prático de listagem de veículos com busca por marca, favoritos e contato do vendedor. Os dados locais simulam uma API; não é um produto oficial do Itaú ou do iCarros.",
+      "en": "A practical vehicle listing case study with brand search, favorites, and seller contact. Local data simulates an API; this is not an official Itaú or iCarros product.",
+      "es": "Caso práctico de listado de vehículos con búsqueda por marca, favoritos y contacto del vendedor. Los datos locales simulan una API; no es un producto oficial de Itaú ni de iCarros."
+    },
+    "contribution": {
+      "pt": "Organizei componentes por funcionalidade, usei CSS Modules e escrevi testes de componentes com Jest e React Testing Library.",
+      "en": "I organized components by feature, used CSS Modules, and wrote component tests with Jest and React Testing Library.",
+      "es": "Organicé componentes por funcionalidad, utilicé CSS Modules y escribí pruebas de componentes con Jest y React Testing Library."
+    },
+    "stack": ["React", "TypeScript", "Vite", "Jest", "React Testing Library"],
+    "image": "./assets/icarros-home.png",
+    "imageAlt": {
+      "pt": "Tela do case com cartões de veículos, busca e favoritos.",
+      "en": "Vehicle case study screen showing listing cards, search, and favorites.",
+      "es": "Pantalla del caso con tarjetas de vehículos, búsqueda y favoritos."
+    },
+    "gallery": ["./assets/icarros-modal.png"],
+    "visualType": "vehicle-case",
+    "video": "",
+    "appUrl": "",
+    "sourceUrl": "https://github.com/augusto44444/itau-test-icarros",
+    "access": {
+      "pt": "Código e capturas públicos no GitHub; não há demonstração hospedada.",
+      "en": "Public code and screenshots on GitHub; no hosted demo is available.",
+      "es": "Código y capturas públicos en GitHub; no hay demostración alojada."
+    }
+  },
+  {
+    "id": "startup-fest",
+    "title": "Startup Fest",
+    "featured": false,
+    "label": {
+      "pt": "Projeto anterior · PWA",
+      "en": "Earlier project · PWA",
+      "es": "Proyecto anterior · PWA"
+    },
+    "description": {
+      "pt": "Aplicativo web instalável para descobrir e avaliar startups. O projeto reúne busca, listagem e avaliações em uma interface para desktop e celular.",
+      "en": "An installable web app for discovering and rating startups. It combines search, listings, and ratings in a desktop and mobile interface.",
+      "es": "Aplicación web instalable para descubrir y evaluar startups. Reúne búsqueda, listados y valoraciones en una interfaz para escritorio y móvil."
+    },
+    "contribution": {
+      "pt": "Construí a interface em React e Redux, a consulta de startups por GraphQL e o fluxo de avaliações com Firebase, além da experiência PWA.",
+      "en": "I built the React and Redux interface, GraphQL startup queries, Firebase rating flow, and PWA experience.",
+      "es": "Desarrollé la interfaz con React y Redux, las consultas de startups con GraphQL, el flujo de valoraciones con Firebase y la experiencia PWA."
+    },
+    "stack": ["React", "Redux", "GraphQL", "Firebase", "PWA"],
+    "image": "./assets/startupfest-screen.png",
+    "imageAlt": {
+      "pt": "Captura histórica do Startup Fest com busca e cartões de startups.",
+      "en": "Historical Startup Fest screenshot with search and startup cards.",
+      "es": "Captura histórica de Startup Fest con búsqueda y tarjetas de startups."
+    },
+    "visualType": "startup-screen",
+    "video": "",
+    "appUrl": "",
+    "sourceUrl": "https://github.com/augusto44444/StartUpFest",
+    "access": {
+      "pt": "Código e capturas públicos no GitHub. A demonstração antiga não está mais disponível.",
+      "en": "Public code and screenshots on GitHub. The original demo is no longer available.",
+      "es": "Código y capturas públicos en GitHub. La demostración original ya no está disponible."
+    }
   }
 ]
